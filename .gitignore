@@ -1,1 +1,4 @@
 obj
+
+# VSCode
+.vscode/settings.json
